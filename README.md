@@ -1,70 +1,33 @@
-# Getting Started with Create React App
+# alba-2021 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## 작업 배경 
+2021년에 SNS에서 MBTI 테스트가 인기였다. 그 당시 재미있게 보고 있던 뮤지컬 베르나르다 알바로 
+캐릭터 성격 테스트를 만들어보면 재미있을 것 같아서 작업을 진행하게 되었다. 
+제대로 FE 개발을 해보지 않아서 2021년 당시에도 부족한 부분이 많았고, 2024년에 들어서 프로젝트의 레포지토리를 옮기면서 
+보수를 진행했다. 
 
-## Available Scripts
+<br>
 
-In the project directory, you can run:
+## 산출물 
 
-### `yarn start`
+### 웹사이트 
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+[베르나르다 알바 2021 성격 테스트](https://albaofespana.github.io/alba-2021/alba/)
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+### 페이지 
 
-### `yarn test`
+Index Page 
+![Index Page](https://github.com/user-attachments/assets/43b8b3c4-6a90-4b38-809d-d87c3e9eb5ae)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `yarn build`
+Select Page
+![Select Page](https://github.com/user-attachments/assets/dee7affe-e05b-448d-8f11-f4bf5880b16f)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Result Page 
+![Result Page](https://github.com/user-attachments/assets/dd392739-2243-48ea-be18-ffd89aab41c4)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Share in SNS 
+![Share in SNS](https://github.com/user-attachments/assets/c194c1e4-de67-415e-84bc-611c820f9981)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+![Share in SNS2](https://github.com/user-attachments/assets/53c4c936-b347-4b83-ae42-f93b0aa33d6b)
