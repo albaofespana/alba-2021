@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/alba-2021/static/css/main.e76f417f.chunk.css",
-    "main.js": "/alba-2021/static/js/main.88f29173.chunk.js",
-    "main.js.map": "/alba-2021/static/js/main.88f29173.chunk.js.map",
+    "main.js": "/alba-2021/static/js/main.715c5d95.chunk.js",
+    "main.js.map": "/alba-2021/static/js/main.715c5d95.chunk.js.map",
     "runtime-main.js": "/alba-2021/static/js/runtime-main.2b2574df.js",
     "runtime-main.js.map": "/alba-2021/static/js/runtime-main.2b2574df.js.map",
     "static/js/2.95b6b118.chunk.js": "/alba-2021/static/js/2.95b6b118.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.2b2574df.js",
     "static/js/2.95b6b118.chunk.js",
     "static/css/main.e76f417f.chunk.css",
-    "static/js/main.88f29173.chunk.js"
+    "static/js/main.715c5d95.chunk.js"
   ]
 }

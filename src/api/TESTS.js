@@ -266,7 +266,7 @@ var TESTS = [
                 query: "fifth",
                 score_range:range(26),
                 img_src:'https://user-images.githubusercontent.com/35620531/109660294-05fd2680-7bac-11eb-9c8a-98faa4ba7f19.png',
-                real_meta: 'https://github.com/albaofespana/alba-2021/blob/master/src/result/adela.html'
+                real_meta: 'https://rawcdn.githack.com/albaofespana/alba-2021/425a0a1b24877b09aec6f0e217ea14f06d33673a/src/result/adela.html'
             },
             {
                 type: "마르띠리오",
