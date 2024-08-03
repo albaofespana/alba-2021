@@ -266,7 +266,7 @@ var TESTS = [
                 query: "fifth",
                 score_range:range(26),
                 img_src:'https://user-images.githubusercontent.com/35620531/109660294-05fd2680-7bac-11eb-9c8a-98faa4ba7f19.png',
-                real_meta: 'https://rawcdn.githack.com/albaofespana/alba-2021/978de6b2ade2d31dffae02a9916d1a3234a91de9/src/result/adela.html'
+                real_meta: 'https://rawcdn.githack.com/albaofespana/alba-2021/6f390db8a1751b06efb990cc5b4d4cbc8a1f72c1/src/result/adela.html'
             },
             {
                 type: "마르띠리오",
@@ -274,7 +274,7 @@ var TESTS = [
                 query: "fourth",
                 score_range:range(26, 51),
                 img_src:'https://user-images.githubusercontent.com/35620531/109660461-3d6bd300-7bac-11eb-8377-d56d2ed46070.png',
-                real_meta: 'https://rawcdn.githack.com/albaofespana/alba-2021/978de6b2ade2d31dffae02a9916d1a3234a91de9/src/result/martirio.html'
+                real_meta: 'https://rawcdn.githack.com/albaofespana/alba-2021/f19252bb3ff88ffd22425d74b146011de5c6149c/src/result/martirio.html'
             },
             {
                 type: "아멜리아",
@@ -282,7 +282,7 @@ var TESTS = [
                 query: "third",
                 score_range:range(51, 75),
                 img_src:'https://user-images.githubusercontent.com/35620531/109660136-db12d280-7bab-11eb-9a59-4fa6ec046758.png',
-                real_meta: 'https://rawcdn.githack.com/albaofespana/alba-2021/978de6b2ade2d31dffae02a9916d1a3234a91de9/src/result/amelia.html'
+                real_meta: 'https://rawcdn.githack.com/albaofespana/alba-2021/f19252bb3ff88ffd22425d74b146011de5c6149c/src/result/amelia.html'
 
             },
             {
@@ -291,7 +291,7 @@ var TESTS = [
                 query: "first",
                 score_range:range(76, 101),
                 img_src:'https://user-images.githubusercontent.com/35620531/109660521-4fe60c80-7bac-11eb-89c2-90d9cafcc083.png',
-                real_meta: 'https://rawcdn.githack.com/albaofespana/alba-2021/978de6b2ade2d31dffae02a9916d1a3234a91de9/src/result/angustias.html'
+                real_meta: 'https://rawcdn.githack.com/albaofespana/alba-2021/f19252bb3ff88ffd22425d74b146011de5c6149c/src/result/angustias.html'
 
             },
             {
@@ -300,7 +300,7 @@ var TESTS = [
                 query: "second",
                 score_range:range(76, 101),
                 img_src:'https://user-images.githubusercontent.com/35620531/109660599-655b3680-7bac-11eb-87be-6c88d002de9f.png',
-                real_meta: 'https://rawcdn.githack.com/albaofespana/alba-2021/978de6b2ade2d31dffae02a9916d1a3234a91de9/src/result/magdalena.html'
+                real_meta: 'https://rawcdn.githack.com/albaofespana/alba-2021/f19252bb3ff88ffd22425d74b146011de5c6149c/src/result/magdalena.html'
 
             },
         ]
